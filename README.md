@@ -36,11 +36,6 @@ In a world full of heavy apps and bloated tools, **Pixora** keeps it simple, fas
 
 ---
 
-## 📸 Live Demo
-
-> Coming soon...
-
----
 
 ## 🧠 Inspiration
 
@@ -63,6 +58,3 @@ Have an idea? Found a bug? Open a pull request or issue — Pixora welcomes coll
 
 ---
 
-## 📃 License
-
-MIT License. Feel free to fork and remix.
